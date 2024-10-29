@@ -8,7 +8,6 @@ void show();
 int peek();
 int isFull();
 int isEmpty();
-
 int main() {
     printf("Enter the number of elements in the stack: ");
     scanf("%d", &n);
